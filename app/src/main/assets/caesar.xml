@@ -1,0 +1,100 @@
+<author>
+	<bio>
+		<shortName>Caesar</shortName>
+		<longName>Gaius Julius Caesar</longName>
+		<life>100 - 44 BC</life>
+	</bio>
+
+	<works>
+		<work>
+			<title>De Bello Gallico</title>
+
+			<books>
+				<book>
+					<title>Liber Primus</title>
+					<heading>Argumentum</heading>
+					<introduction>Lorem ipsum dolor sit amet</introduction>
+
+					<chapters>
+						<chapter>debellogallico-1.1</chapter>
+                        <chapter>debellogallico-1.2</chapter>
+                        <chapter>debellogallico-1.3</chapter>
+                        <chapter>debellogallico-1.4</chapter>
+                        <chapter>debellogallico-1.5</chapter>
+                        <chapter>debellogallico-1.6</chapter>
+                        <chapter>debellogallico-1.7</chapter>
+					</chapters>
+				</book>
+                <book>
+                    <title>Liber Quartus</title>
+                    <heading>Argumentum</heading>
+                    <introduction>Lorem ipsum dolor sit amet</introduction>
+                    
+                    <chapters>
+                        <chapter>debellogallico-4.24</chapter>
+                        <chapter>debellogallico-4.25</chapter>
+                        <chapter>debellogallico-4.26</chapter>
+                        <chapter>debellogallico-4.27</chapter>
+                        <chapter>debellogallico-4.28</chapter>
+                        <chapter>debellogallico-4.29</chapter>
+                        <chapter>debellogallico-4.30</chapter>
+                        <chapter>debellogallico-4.31</chapter>
+                        <chapter>debellogallico-4.32</chapter>
+                        <chapter>debellogallico-4.33</chapter>
+                        <chapter>debellogallico-4.34</chapter>
+                        <chapter>debellogallico-4.35</chapter>
+                        <chapter>debellogallico-4.36</chapter>
+                    </chapters>
+                </book>
+                <book>
+                    <title>Liber Quintus</title>
+                    <heading>Argumentum</heading>
+                    <introduction>Lorem ipsum dolor sit amet</introduction>
+                    
+                    <chapters>
+                        <chapter>debellogallico-5.24</chapter>
+                        <chapter>debellogallico-5.26</chapter>
+                        <chapter>debellogallico-5.27</chapter>
+                        <chapter>debellogallico-5.28</chapter>
+                        <chapter>debellogallico-5.29</chapter>
+                        <chapter>debellogallico-5.30</chapter>
+                        <chapter>debellogallico-5.31</chapter>
+                        <chapter>debellogallico-5.32</chapter>
+                        <chapter>debellogallico-5.33</chapter>
+                        <chapter>debellogallico-5.34</chapter>
+                        <chapter>debellogallico-5.35</chapter>
+                        <chapter>debellogallico-5.36</chapter>
+                        <chapter>debellogallico-5.37</chapter>
+                        <chapter>debellogallico-5.38</chapter>
+                        <chapter>debellogallico-5.39</chapter>
+                        <chapter>debellogallico-5.40</chapter>
+                        <chapter>debellogallico-5.41</chapter>
+                        <chapter>debellogallico-5.42</chapter>
+                        <chapter>debellogallico-5.43</chapter>
+                        <chapter>debellogallico-5.44</chapter>
+                        <chapter>debellogallico-5.45</chapter>
+                        <chapter>debellogallico-5.46</chapter>
+                        <chapter>debellogallico-5.47</chapter>
+                        <chapter>debellogallico-5.49</chapter>
+                    </chapters>
+                </book>
+                <book>
+                    <title>Liber Sextus</title>
+                    <heading>Argumentum</heading>
+                    <introduction>Lorem ipsum dolor sit amet</introduction>
+                    
+                    <chapters>
+                        <chapter>debellogallico-6.13</chapter>
+                        <chapter>debellogallico-6.14</chapter>
+                        <chapter>debellogallico-6.15</chapter>
+                        <chapter>debellogallico-6.16</chapter>
+                        <chapter>debellogallico-6.17</chapter>
+                        <chapter>debellogallico-6.18</chapter>
+                        <chapter>debellogallico-6.19</chapter>
+                        <chapter>debellogallico-6.20</chapter>
+                    </chapters>
+                </book>
+			</books>
+		</work>
+	</works>
+</author>

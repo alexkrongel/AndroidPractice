@@ -1,0 +1,53 @@
+<layout>
+    <globals>
+        <font>Palatino</font>
+    </globals>
+
+    <devices>
+        <device>
+            <model>iPad 2</model>
+            <fontsizes>
+                <tappable>24</tappable>
+                <regular>24</regular>
+                <summary>22</summary>
+                <note>14</note>
+                <regulartapped>24</regulartapped>
+                <summarytapped>22</summarytapped>
+                <notetapped>14</notetapped>
+                <lemmata>18</lemmata>
+                <title>28</title>
+                <linenumber>24</linenumber>
+            </fontsizes>
+        </device>
+        <device>
+            <model>iPhone 5</model>
+            <fontsizes>
+                <tappable>13</tappable>
+                <regular>13</regular>
+                <summary>12</summary>
+                <note>10</note>
+                <regulartapped>13</regulartapped>
+                <summarytapped>12</summarytapped>
+                <notetapped>10</notetapped>
+                <lemmata>14</lemmata>
+                <title>18</title>
+                <linenumber>9</linenumber>
+            </fontsizes>
+        </device>
+        <device>
+            <model>Default</model>
+            <fontsizes>
+                <tappable>15</tappable>
+                <regular>15</regular>
+                <summary>15</summary>
+                <note>15</note>
+                <regulartapped>15</regulartapped>
+                <summarytapped>15</summarytapped>
+                <notetapped>15</notetapped>
+                <lemmata>18</lemmata>
+                <title>15</title>
+                <linenumber>15</linenumber>
+            </fontsizes>
+        </device>
+    </devices>
+</layout>

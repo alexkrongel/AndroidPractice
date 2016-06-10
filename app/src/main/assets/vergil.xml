@@ -1,0 +1,65 @@
+<author>
+	<bio>
+		<shortName>Vergil</shortName>
+		<longName>Publius Vergilius Maro</longName>
+		<life>70 – 19 BC</life>
+	</bio>
+
+	<works>
+		<work>
+			<title>Aeneid</title>
+            <genre>Poetry</genre>
+			<books>
+				<book>
+					<title>Liber I</title>
+					<heading>Argumentum</heading>
+					<introduction>Lorem ipsum dolor sit amet</introduction>
+
+					<passages>
+						<passage start="1" end="209">aeneid-1.1-209</passage>
+                        <passage start="418" end="440">aeneid-1.418-440</passage>
+                        <passage start="494" end="578">aeneid-1.494-578</passage>
+					</passages>
+				</book>
+                
+                <book>
+                    <title>Liber II</title>
+                    <heading>Argumentum</heading>
+                    <introduction>Lorem ipsum dolor sit amet</introduction>
+                    
+                    <passages>
+                        <passage start="40" end="56">aeneid-2.40-56</passage>
+                        <passage start="201" end="249">aeneid-2.201-249</passage>
+                        <passage start="268" end="297">aeneid-2.268-297</passage>
+                        <passage start="559" end="620">aeneid-2.559-620</passage>
+                    </passages>
+                </book>
+                
+                <book>
+                    <title>Liber IV</title>
+                    <heading>Argumentum</heading>
+                    <introduction>Lorem ipsum dolor sit amet</introduction>
+                    
+                    <passages>
+                        <passage start="160" end="218">aeneid-4.160-218</passage>
+                        <passage start="259" end="361">aeneid-4.259-361</passage>
+                        <passage start="659" end="705">aeneid-4.659-705</passage>
+                    </passages>
+                </book>
+
+				<book>
+					<title>Liber VI</title>
+					<heading>Argumentum</heading>
+					<introduction>Lorem ipsum dolor sit amet</introduction>
+
+					<passages>
+						<passage start="295" end="332">aeneid-6.295-332</passage>
+                        <passage start="384" end="425">aeneid-6.384-425</passage>
+                        <passage start="450" end="476">aeneid-6.450-476</passage>
+                        <passage start="847" end="899">aeneid-6.847-899</passage>
+					</passages>
+				</book>			
+			</books>
+		</work>
+	</works>
+</author>

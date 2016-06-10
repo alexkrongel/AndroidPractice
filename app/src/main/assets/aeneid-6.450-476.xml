@@ -1,0 +1,48 @@
+<passage>
+	<lines>
+		<line>Inter quas Phoenissa recens a vulnere Dido</line>    
+		<line>Errabat sylva in magna: quam Troius heros,</line>
+		<line>Ut primum iuxta stetit, agnovitque per umbras</line>
+		<line>Obscuram, qualem primo qui surgere mense</line>
+		<line>Aut videt, aut vidisse putat per nubila Lunam,</line>
+		<line>Demisit lacrymas, dulcique affatus amore est:</line>    
+		<line>Infelix Dido, verus mihi nuntius ergo</line>
+		<line>Venerat extinctam, ferroque extrema secutam;</line>
+		<line>Funeris heu tibi causa fui? Per sidera iuro,</line>
+		<line>Per Superos, et si qua fides tellure sub ima est:</line>
+		<line>Invitus, regina, tuo de littore cessi.</line>            
+		<line>Sed me iussa Deum, quae nunc has ire per umbras,</line>
+		<line>Per loca senta situ cogunt noctemque profundam,</line>
+		<line>Imperiis egere suis; nec credere quivi</line>
+		<line>Hunc tantum tibi me discessu ferre dolorem.</line>
+		<line>Siste gradum, teque aspectu ne subtrahe nostro.</line>    
+		<line>Quem fugis? extremum fato, quod te alloquor, hoc est.</line>
+		<line>Talibus Aeneas ardentem et torva tuentem</line>
+		<line>Lenibat dictis animum, lacrymasque ciebat.</line>
+		<line>Illa solo fixos oculos aversa tenebat;</line>
+		<line>Nec magis incepto vultum sermone movetur,</line>    
+		<line>Quam si dura silex aut stet Marpesia cautes.</line>
+		<line>Tandem corripuit sese, atque inimica refugit</line>
+		<line>In nemus umbriferum; coniux ubi pristinus illi</line>
+		<line>Respondet curis, aequatque Sychaeus amorem.</line>
+		<line>Nec minus Aeneas, casu percussus iniquo,</line>            
+		<line>Prosequitur lacrymans longe, et miseratur euntem.</line>
+	</lines>
+
+	<summaries>
+		<summary line="450">Inter quas Phoenicia Dido recens post vulnus sibi inflictum vagabatur in magno nemore. Ut primum Troianus heros stetit prope, et agnovit eam inter tenebras obscuras; qualem aliquis videt aut putat vidisse Lunam oriri inter nubes ineunte mense; effudit lacrymas, et prae suavi amore locutus est:</summary>
+		<summary line="456">Misera Dido! ergo verus nuntius ad me venerat, te mortuam, et gladio passam ultima fata. Heu! tibi auctor fui mortis. Iuro per astra, per Deos, et si aliqua est fides sub terra profunda:</summary> 
+		<summary line="460">exivi nolens e tuo littore, o regina. Sed mandata Deorum, quae cogunt me nunc ire per has umbras, per loca horrida squalore et tenebras profundas, expulerunt me auctoritate sua. Nec potui credere me tibi allaturum esse tantum dolorem abitu meo.</summary> 
+		<summary line="465">Contine gressum, et ne subducas te conspectui meo. Quem fugis? hoc est ultimum tempus, quo tecum loquor per fatum. Aeneas mulcebat talibus verbis animum iratae et aspere intuentis, et conabatur ei movere lacrymas.</summary>
+		<summary line="469">Illa infensa tenebat oculos defixos in terram. Nec magis movetur secundum faciem ab usque principio sermonis, quam si stet lapis durus, aut rupes Marpesia.</summary>
+		<summary line="472">Denique abstulit se, et fugit inimica in sylvam umbrosam: ubi prior maritus Sychaeus respondet illi solicitudine, et aequat amorem eius. Nihilominus Aeneas commotus acerba eius morte, longe sequitur euntem plorans et miseretur eius.</summary>
+	</summaries>
+
+	<notes>
+		<note line="462" word="1,2,3">Sentis est spina: sic dictus, quia quamprimum a tangentibus sentitur: hinc senticosus, et sentus, asper, horridus. Terentius in Eunuch. Act. ii. sc. 2. v. 5. ‘Video sentum, squalidum, aegrum, annis pannisque obsitum.’ Situs est caries, mucor, squalor, ex humore parietibus adhaerescens.</note>
+		<note line="465" word="3">Pro aspectui, dativus contractus, Ecl. v. 29.</note>
+		<note line="466" word="2,3,4,5,6,7,8">Neque enim amplius me vivum mortuumve videre poteris: non vivum, quia pauculae tantum horae mihi ad haec invisenda loca Deorum voluntate ac fato concessae sunt: non mortuum, quia sors mea fatumque bellatoris aliis Inferorum sedibus me addicet.</note>
+		<note line="467" word="4,5">Distingue tempora: primo enim torve aspexit, mox solo fixit oculos, tum denique avertit. Vel aversa, non ad oculos, sed ad animum infensum refertur, ut Aen. iv. 362.</note>
+		<note line="471" word="6,7">Mons marmoreus in insula Paro, una e Cycladibus, de qua Aen. iii. 126. iuxta Stephanum. Aut iuxta Iornandem, Caucasi montis pars, ab Amazonum regina Marpesia, quae illic aliquando habitavit. De Sychaeo, Aen. i. 347.</note>
+	</notes>
+</passage>
