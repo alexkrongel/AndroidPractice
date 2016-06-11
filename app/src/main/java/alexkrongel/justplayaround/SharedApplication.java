@@ -69,7 +69,6 @@ public class SharedApplication extends Application {
             if (name.equalsIgnoreCase("author")) {
                 Author author = new Author(SharedApplication.this, stringBuilder.toString());
                 authors.add(author);
-                //   Log.d(main, "AK Main Activity End-element" + name);
             }
         }
 

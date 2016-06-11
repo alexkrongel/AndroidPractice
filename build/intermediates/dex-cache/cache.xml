@@ -2,94 +2,94 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="7e0cf7902caa9d3addb3e05039d97a7322aa117c">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_912262c46b6db8384d3ba1e1d22158d54beb7b10.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="1218e47802266d0f7033d833c6335085dc5f4fd9">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/instant-run_eccb0ee866d19abe300dcead8a22fbd9de3db4f8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_c9f95ec34b3ee68c85498cc0618f8bb21fa536f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/alexandrakrongel/Downloads/Android Studio 2.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha2/constraint-layout-solver-1.0.0-alpha2.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
         sha1="d5b32a2a1529a72472729ee5c94779d0ce9951eb">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha2_f17abea7e29bcd86a652f821d2782fa32fc8d3de.jar" />
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha2_f17abea7e29bcd86a652f821d2782fa32fc8d3de/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_f1dee2417b87e8e31bb52cc18f760d4f45129d26.jar" />
+        sha1="78dc7af567fd759dd71155e020060b5c5459a32e">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_912262c46b6db8384d3ba1e1d22158d54beb7b10/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha2_ebc6ac79eae8200435a9898a20926cb4cd8d9ce3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="23.0.2"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_73cfdbdd2a4801245fad2b07cb45073926c08c4b.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
         sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_721562b7ad5975314f0846eb695f63155cb3f69c.jar" />
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_721562b7ad5975314f0846eb695f63155cb3f69c/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_8005ad7da6e31d81d978cf985f206aaf1b8f844e.jar" />
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_f1dee2417b87e8e31bb52cc18f760d4f45129d26/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/alexandrakrongel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="true"
         optimize="false"
         revision="23.0.2"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_e55a3ec9a2cf11d0de3a68e22c66b4cfc780a1c8.jar" />
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_e55a3ec9a2cf11d0de3a68e22c66b4cfc780a1c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_73cfdbdd2a4801245fad2b07cb45073926c08c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_8005ad7da6e31d81d978cf985f206aaf1b8f844e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_c9f95ec34b3ee68c85498cc0618f8bb21fa536f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="757a34f5d84a6b77a2bd0ba1affbcd2145329096">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha2_ebc6ac79eae8200435a9898a20926cb4cd8d9ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.2"
+        sha1="f1cd925b35b2c3ec7c7682d77a32ec66fa5ec45d">
+        <dex dex="/Users/alexandrakrongel/AndroidStudioProjects/JustPlayAround/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eccb0ee866d19abe300dcead8a22fbd9de3db4f8/classes.dex" />
     </item>
 
 </items>
